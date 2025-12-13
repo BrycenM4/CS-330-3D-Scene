@@ -1,7 +1,8 @@
 ﻿  SceneManager.cpp
-C:\Users\bryce\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
-C:\Users\bryce\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(437,27): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\bryce\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(909,33): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\bryce\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(909,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\bryce\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(909,17): warning C4305: 'argument': truncation from 'double' to 'float'
-  7-1_FinalProjectMilestones.vcxproj -> C:\Users\bryce\Downloads\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
+C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(459,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1048,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1048,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1048,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(1295,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\bryce\Downloads\CS330 Project - Containts both\CS330Content Improved Version\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
