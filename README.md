@@ -11,3 +11,10 @@ For this project specifically, I really had to try and visualize what I wanted t
 **How can computer science help me in reaching my goals?**
 
 Learning more about graphics and visualizations can help me in my future career by giving me the tools needed to succeed in UI and visualiztion projects. I plan to be a software engineer in the future, so having this understanding of texturing, lighting, and positioning, will help immensely with creating professional UI and graphic implementations.
+
+
+**Steps for running application**
+
+Download and open the 7-1 Project Milestone folder in visual studio and then run applicationn.
+
+To use the enhanced version, replace the original scenemanager.cpp file with the enhanced one.
